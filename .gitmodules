@@ -1,0 +1,3 @@
+[submodule "WithLib/BulletPhysics"]
+	path = WithLib/BulletPhysics
+	url = git@github.com:admtrv/BulletPhysics.git
